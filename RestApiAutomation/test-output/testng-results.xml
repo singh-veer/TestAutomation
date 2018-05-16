@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="186" started-at="2018-05-16T09:15:18Z" finished-at="2018-05-16T09:15:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="186" started-at="2018-05-16T09:15:18Z" finished-at="2018-05-16T09:15:18Z">
+      <class name="com.restapi.testng.ResendUserTest">
+        <test-method status="PASS" signature="resenduser1()[pri:0, instance:com.restapi.testng.ResendUserTest@598067a5]" name="resenduser1" duration-ms="4" started-at="2018-05-16T14:45:18Z" finished-at="2018-05-16T14:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resenduser1 -->
+        <test-method status="PASS" signature="resenduser2()[pri:0, instance:com.restapi.testng.ResendUserTest@598067a5]" name="resenduser2" duration-ms="11" started-at="2018-05-16T14:45:18Z" finished-at="2018-05-16T14:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resenduser2 -->
+      </class> <!-- com.restapi.testng.ResendUserTest -->
+      <class name="com.restapi.testng.CheckUserTest">
+        <test-method status="PASS" signature="checkuser1()[pri:0, instance:com.restapi.testng.CheckUserTest@3abbfa04]" name="checkuser1" duration-ms="34" started-at="2018-05-16T14:45:18Z" finished-at="2018-05-16T14:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkuser1 -->
+        <test-method status="PASS" signature="checkuser2()[pri:0, instance:com.restapi.testng.CheckUserTest@3abbfa04]" name="checkuser2" duration-ms="5" started-at="2018-05-16T14:45:18Z" finished-at="2018-05-16T14:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkuser2 -->
+      </class> <!-- com.restapi.testng.CheckUserTest -->
+      <class name="com.restapi.testng.ConfirmUserTest">
+        <test-method status="PASS" signature="confirmuser1()[pri:0, instance:com.restapi.testng.ConfirmUserTest@3c0ecd4b]" name="confirmuser1" duration-ms="7" started-at="2018-05-16T14:45:18Z" finished-at="2018-05-16T14:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmuser1 -->
+        <test-method status="PASS" signature="confirmuser2()[pri:0, instance:com.restapi.testng.ConfirmUserTest@3c0ecd4b]" name="confirmuser2" duration-ms="9" started-at="2018-05-16T14:45:18Z" finished-at="2018-05-16T14:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmuser2 -->
+      </class> <!-- com.restapi.testng.ConfirmUserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

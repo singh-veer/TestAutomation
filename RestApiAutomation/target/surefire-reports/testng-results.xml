@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73" started-at="2018-05-16T11:42:54Z" finished-at="2018-05-16T11:42:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73" started-at="2018-05-16T11:42:54Z" finished-at="2018-05-16T11:42:54Z">
+      <class name="com.restapi.testng.ResendUserTest">
+        <test-method status="PASS" signature="resenduser1()[pri:0, instance:com.restapi.testng.ResendUserTest@39fb3ab6]" name="resenduser1" duration-ms="1" started-at="2018-05-16T17:12:54Z" finished-at="2018-05-16T17:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resenduser1 -->
+        <test-method status="PASS" signature="resenduser2()[pri:0, instance:com.restapi.testng.ResendUserTest@39fb3ab6]" name="resenduser2" duration-ms="1" started-at="2018-05-16T17:12:54Z" finished-at="2018-05-16T17:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resenduser2 -->
+      </class> <!-- com.restapi.testng.ResendUserTest -->
+      <class name="com.restapi.testng.CheckUserTest">
+        <test-method status="PASS" signature="checkuser1()[pri:0, instance:com.restapi.testng.CheckUserTest@337d0578]" name="checkuser1" duration-ms="17" started-at="2018-05-16T17:12:54Z" finished-at="2018-05-16T17:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkuser1 -->
+        <test-method status="PASS" signature="checkuser2()[pri:0, instance:com.restapi.testng.CheckUserTest@337d0578]" name="checkuser2" duration-ms="1" started-at="2018-05-16T17:12:54Z" finished-at="2018-05-16T17:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkuser2 -->
+      </class> <!-- com.restapi.testng.CheckUserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
